@@ -1,0 +1,6 @@
+{
+  "name": "Aesthetic IG Layouts - Outing Dump to Editorial Stories",
+  "description": "Transform any photo dump into aesthetic Instagram layouts with smart photo combinations, border styles, and Pinterest screenshot layout extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
